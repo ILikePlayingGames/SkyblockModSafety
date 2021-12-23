@@ -12,6 +12,10 @@ Token loggers are often spread in dungeon parties, in public Skyblock lobbies, o
         - It may seem like a good deal but what sounds too good to be true usually is.
     - Token loggers disguised as popular mods
         - Token loggers are usually disguised as a popular mod (like SBA or NEU).
+    - Offering hacks with a flashy feature list
+        - Don't download hacks at all. They are not allowed on Skyblock and it's difficult to know what's in them. You may get banned or have your account stolen.
+        - Token logger makers sometimes disguise their mods as hacks such as macros, auction flippers, and dungeon solvers.
+        - They'll advertise impressive features such as making billions of coins in a day. These are fake claims to lure people in.
     - They are usually high-level players
         - They target high-level players to steal their wealth so they often have high stats themselves to blend in with their prey.
         - They often look for victims in areas high-level players frequent (like Crystal Hollows or F7 dungeon parties).
@@ -26,6 +30,8 @@ Token loggers are often spread in dungeon parties, in public Skyblock lobbies, o
         - They will play through several dungeon runs and chat with other players for some time before offering the token logger. They do this to gain trust so people will be more likely to download the token logger.
     - Saying the file is marked safe on VirusTotal
         - They use VirusTotal to convince people the file is safe. In reality, this is misleading as VirusTotal cannot detect Minecraft token loggers.
+    - Offering to pay you to test their mod
+        - Sometimes they'll offer to pay you coins to download the mod. This is a ruse since they'll just take over your account after you run the mod.
 3. Warn others. If you see someone offering to send mods, warn the other people in the party/lobby/etc. where they are offering it about the dangers and tell them not to download it.
 4. If you see it, report it. It is important to report their messages so moderators can take action and prevent them from sending more.
 
@@ -44,6 +50,7 @@ If someone offered to send you a mod, you can report it by following the instruc
 5. Click "Submit Report."
 ### In Discord
 1. If the person who messaged you is in one or more Discord servers that you're also in, message a staff member on those servers and tell them someone tried to send you a malicious mod. They will ask you for more details and remove that person from the server once they have enough evidence. You can see what servers you have in common by clicking on "Mutual Servers" at the beginning of your direct message, like the screenshot below.
+
    ![mutual servers](https://user-images.githubusercontent.com/22475143/146634869-fd7cb39b-46e0-4505-b531-89a251004d33.png)
 
 2. Go to [https://dis.gd/report](https://dis.gd/report).
@@ -77,3 +84,10 @@ If someone offered to send you a mod, you can report it by following the instruc
 7. In the description, explain what happened. Tell them that you were sent what you think is a malicious Minecraft mod or that the person who messaged you tried to convince you to download one. Also list the signs that made you think this was a malicious mod (they may have used some of the common tactics listed above).
 8. Attach screenshots of the conversation where they tried to convince you to download the mod.
 9. Once you're happy with what you've written, submit it and wait for their reply.
+
+## My Account Got Hacked! What do I Do?
+Please follow the "I've been hacked! What do I do?!" section of Hypixel's [account security guide](https://support.hypixel.net/hc/en-us/articles/360019538060) to secure your account and review the other parts of the guide for tips to improve your account security.
+Note that the link "My account was stolen" does not work. The correct link is [Minecraft: Java Edition Account Security FAQ](https://help.minecraft.net/hc/en-us/articles/4409227755661-Minecraft-Java-Edition-Account-Security-FAQ).
+If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
+
+[^1]: [Lost Skyblock Items](https://support.hypixel.net/hc/en-us/articles/360019584000-Lost-SkyBlock-Items)
