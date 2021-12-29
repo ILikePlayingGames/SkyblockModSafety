@@ -12,6 +12,8 @@ This is a list of official download links for common mods used by Skyblock playe
     - [SkyblockPersonalized (SBP)](#skyblockpersonalized-sbp)
     - [Skytils](#skytils)
 4. [Other Mods](#other-mods)
+    - [Optifine](#optifine)
+    - [Patcher](#patcher)
 
 ## Minecraft Forge (Mod Loader)
 - Website: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
