@@ -1,5 +1,14 @@
 :house: [Home](README.md)
 # How to Protect Yourself From Minecraft Token Loggers
+## Table of Contents
+1. [What is a Token Logger?](#what-is-a-token-logger)
+2. [How Do They Spread?](#how-do-they-spread)
+3. [How Do I Protect Myself?](#how-do-i-protect-myself)
+4. [How Do I Report a Token Logger?](#how-do-i-report-a-token-logger)
+    - [In-Game on Hypixel](#in-game-on-hypixel)
+    - [In Discord](#in-discord)
+5. [My Account Got Hacked! What do I Do?](#my-account-got-hacked-what-do-i-do)
+
 ## What is a Token Logger?
 A token logger (or stealer) is a malicious Minecraft mod that is designed to steal your Minecraft (also Discord or other apps sometimes) session token. This token is a line of text stored on your computer that the Minecraft client uses to login to the game. It exists so you don't have to enter your username and password every time you want to login to the game. If your token is stolen by a token logger, then the author of the token logger will be able to use it to login to your account.
 
