@@ -20,6 +20,7 @@ Token loggers are often spread in dungeon parties, in public Skyblock lobbies, o
 2. Watch out for these common tactics token logger makers use:
     - Offering paid mods (like SBE) or private mods for free
         - It may seem like a good deal but what sounds too good to be true usually is.
+        - Sometimes they may offer to give one to you if you beat them in a duel to make it sound more convincing. These are most likely token loggers.
     - Token loggers disguised as popular mods
         - Token loggers are usually disguised as a popular mod (like SBA or NEU).
     - Offering hacks with a flashy feature list
@@ -99,5 +100,7 @@ If someone offered to send you a mod, you can report it by following the instruc
 Please follow the "I've been hacked! What do I do?!" section of Hypixel's [account security guide](https://support.hypixel.net/hc/en-us/articles/360019538060) to secure your account and review the other parts of the guide for tips to improve your account security.
 Note that the link "My account was stolen" does not work. The correct link is [Minecraft: Java Edition Account Security FAQ](https://help.minecraft.net/hc/en-us/articles/4409227755661-Minecraft-Java-Edition-Account-Security-FAQ).
 If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
+If the hacker has gotten your account banned by hacking on it, unfortunately you'll have to wait out your ban. According to Hypixel, what happens on your account is your responsibility, no matter who was using it[^2].
 
 [^1]: [Lost Skyblock Items](https://support.hypixel.net/hc/en-us/articles/360019584000-Lost-SkyBlock-Items)
+[^2]: [Player and Account Safety > Why do we have this rule?](https://hypixel.net/hypixel-rules/#rule-4-section-1)
