@@ -5,6 +5,7 @@ This is a list of official download links for common mods used by Skyblock playe
 1. [Minecraft Forge (Mod Loader)](#minecraft-forge-mod-loader)
 2. [Skyblock-specific Mods](#skyblock-specific-mods)
     - [Cowlection](#cowlection)
+    - [DungeonsGuide](#dungeonsguide)
     - [Dungeon Rooms Mod](#dungeon-rooms-mod)
     - [NotEnoughUpdates (NEU)](#notenoughupdates-neu)
     - [SkyblockAddons (SBA)](#skyblockaddons-sba)
@@ -23,6 +24,10 @@ This is a list of official download links for common mods used by Skyblock playe
 ### Cowlection
 - Discord: https://discord.gg/fU2tFPf
 - GitHub: https://github.com/cow-mc/Cowlection/
+
+### DungeonsGuide
+- Discord: https://discord.gg/dg
+- GitHub: https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases
 
 ### Dungeon Rooms Mod
 - Discord: https://discord.gg/En6RECuz8N
