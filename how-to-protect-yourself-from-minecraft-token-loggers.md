@@ -80,6 +80,7 @@ Additionally, please change all the passwords stored in your browser as well sin
 - [Chrome](https://support.google.com/chrome/answer/95606?hl=en)
 - [Firefox](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-edit-logins)
 - [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/save-or-forget-passwords-in-microsoft-edge-b4beecb0-f2a8-1ca0-f26f-9ec247a3f336)
+- [Safari](https://support.apple.com/en-us/HT211145)
 - [Yandex](https://browser.yandex.com/help/security/passwords-manager.html)
 
 If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
