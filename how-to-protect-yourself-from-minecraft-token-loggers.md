@@ -81,6 +81,7 @@ Additionally, please change all the passwords stored in your browser as well sin
 - [Firefox](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-edit-logins)
 - [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/save-or-forget-passwords-in-microsoft-edge-b4beecb0-f2a8-1ca0-f26f-9ec247a3f336)
 - [Yandex](https://browser.yandex.com/help/security/passwords-manager.html)
+
 If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
 If the hacker has gotten your account banned by hacking on it, unfortunately you'll have to wait out your ban. According to Hypixel, what happens on your account is your responsibility, no matter who was using it[^2].
 
