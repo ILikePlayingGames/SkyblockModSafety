@@ -75,6 +75,12 @@ If someone offered to send you a mod, you can report it by following the instruc
 Please follow the "I've been hacked! What do I do?!" section of Hypixel's [account security guide](https://support.hypixel.net/hc/en-us/articles/360019538060) to secure your account and review the other parts of the guide for tips to improve your account security.
 Note that the link "My account was stolen" does not work. The correct link is [Minecraft: Java Edition Account Security FAQ](https://help.minecraft.net/hc/en-us/articles/4409227755661-Minecraft-Java-Edition-Account-Security-FAQ).
 Next, follow steps 1 and 2 of [Discord's tips for hacking incidents](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking#Hacking-incidents-DDoS-attacks) to secure your Discord account.
+Additionally, please change all the passwords stored in your browser as well since token stealers have been known to steal these as well. Please select the browser you're using to be directed to the correct instructions.
+- [Brave](https://support.brave.com/hc/en-us/articles/360018185951-How-do-I-use-the-built-in-password-manager-)
+- [Chrome](https://support.google.com/chrome/answer/95606?hl=en)
+- [Firefox](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-edit-logins)
+- [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/save-or-forget-passwords-in-microsoft-edge-b4beecb0-f2a8-1ca0-f26f-9ec247a3f336)
+- [Yandex](https://browser.yandex.com/help/security/passwords-manager.html)
 If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
 If the hacker has gotten your account banned by hacking on it, unfortunately you'll have to wait out your ban. According to Hypixel, what happens on your account is your responsibility, no matter who was using it[^2].
 
