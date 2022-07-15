@@ -3,6 +3,7 @@ A collection of resources for Hypixel Skyblock players about how to use mods saf
 
 ### [How to Protect Yourself From Minecraft Token Loggers](how-to-protect-yourself-from-minecraft-token-loggers.md)
 ### [Official Download Links for Skyblock Mods](official-mod-download-links.md)
+### [What to do if You've Been Hacked](hacked.md)
 ### [Common Token Logger Strategies](common-token-logger-strategies.md)
 
 ## Official Hypixel Articles

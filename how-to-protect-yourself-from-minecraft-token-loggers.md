@@ -7,7 +7,6 @@
 4. [How Do I Report a Token Logger?](#how-do-i-report-a-token-logger)
     - [In-Game on Hypixel](#in-game-on-hypixel)
     - [In Discord](#in-discord)
-5. [My Account Got Hacked! What do I Do?](#my-account-got-hacked-what-do-i-do)
 
 ## What is a Token Logger?
 A token logger (or stealer) is a malicious Minecraft mod that is designed to steal your Minecraft (also Discord or other apps sometimes) session token. This token is a line of text stored on your computer that the Minecraft client uses to login to the game. It exists so you don't have to enter your username and password every time you want to login to the game. If your token is stolen by a token logger, then the author of the token logger will be able to use it to login to your account.
@@ -71,20 +70,4 @@ If someone offered to send you a mod, you can report it by following the instruc
 8. Attach screenshots of the conversation where they tried to convince you to download the mod.
 9. Once you're happy with what you've written, submit it and wait for their reply.
 
-## My Account Got Hacked! What do I Do?
-Please follow the "I've been hacked! What do I do?!" section of Hypixel's [account security guide](https://support.hypixel.net/hc/en-us/articles/360019538060) to secure your account and review the other parts of the guide for tips to improve your account security.
-Note that the link "My account was stolen" does not work. The correct link is [Minecraft: Java Edition Account Security FAQ](https://help.minecraft.net/hc/en-us/articles/4409227755661-Minecraft-Java-Edition-Account-Security-FAQ).
-Next, follow steps 1 and 2 of [Discord's tips for hacking incidents](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking#Hacking-incidents-DDoS-attacks) to secure your Discord account.
-Additionally, please change all the passwords stored in your browser as well since token stealers have been known to steal these as well. Please select the browser you're using to be directed to the correct instructions.
-- [Brave](https://support.brave.com/hc/en-us/articles/360018185951-How-do-I-use-the-built-in-password-manager-)
-- [Chrome](https://support.google.com/chrome/answer/95606?hl=en)
-- [Firefox](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-edit-logins)
-- [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/save-or-forget-passwords-in-microsoft-edge-b4beecb0-f2a8-1ca0-f26f-9ec247a3f336)
-- [Safari](https://support.apple.com/en-us/HT211145)
-- [Yandex](https://browser.yandex.com/help/security/passwords-manager.html)
 
-If the hacker has taken your Skyblock items, unfortunately there is nothing you can do. Hypixel does not restore Skyblock items under any circumstance[^1].
-If the hacker has gotten your account banned by hacking on it, unfortunately you'll have to wait out your ban. According to Hypixel, what happens on your account is your responsibility, no matter who was using it[^2].
-
-[^1]: [Lost Skyblock Items](https://support.hypixel.net/hc/en-us/articles/360019584000-Lost-SkyBlock-Items)
-[^2]: [Player and Account Safety > Why do we have this rule?](https://hypixel.net/hypixel-rules/#rule-4-section-1)
