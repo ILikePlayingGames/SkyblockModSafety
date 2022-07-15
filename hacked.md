@@ -4,9 +4,13 @@
 1. Disable Multiplayer on your Minecraft account. This prevents the hacker from logging into servers. Your Minecraft account must be a Microsoft account to do this.
    1. Go to your Xbox settings: https://account.xbox.com/settings
    2. Select "Xbox Series X|S, Xbox One, and Windows 10 devices Online Safety"
+      
       ![The Xbox settings menu with "Xbox Series X|S, Xbox One, and Windows 10 devices Online Safety" highlighted](images/hacked/xbox-settings.png)
+     
    3. Set the highlighted options to "Block"
+      
       ![Setting the options "You can play with people outside of Xbox Live" and "You can join multiplayer games" to "Block"](images/hacked/disable-multiplayer.png)
+      
    4. Click "Submit" to save the changes
 2. [Change your Minecraft account password.](https://support.microsoft.com/en-us/account-billing/change-your-microsoft-account-password-fdde885b-86da-2965-69fd-4871309ef1f1)
 3. [Change your Discord account password.](https://support.discord.com/hc/en-us/articles/218410947-I-forgot-my-Password-Where-can-I-set-a-new-one-)
