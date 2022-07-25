@@ -12,6 +12,7 @@
       ![Setting the options "You can play with people outside of Xbox Live" and "You can join multiplayer games" to "Block"](images/hacked/disable-multiplayer.png)
       
    4. Click "Submit" to save the changes
+   5. Please keep multiplayer disabled for **at least 24 hours**. That is how long it takes for the auth token to change. If you re-enable it early, the hacker may be able to login again.
 2. [Change your Minecraft account password.](https://support.microsoft.com/en-us/account-billing/change-your-microsoft-account-password-fdde885b-86da-2965-69fd-4871309ef1f1)
 3. [Change your Discord account password.](https://support.discord.com/hc/en-us/articles/218410947-I-forgot-my-Password-Where-can-I-set-a-new-one-)
 4. Change all the passwords stored in your browser as well since token stealers have been known to steal these as well. Please select the browser you're using to be directed to the correct instructions.
