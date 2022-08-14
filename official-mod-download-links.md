@@ -15,6 +15,10 @@ This is a list of official download links for common mods used by Skyblock playe
 4. [Other Mods](#other-mods)
     - [Optifine](#optifine)
     - [Patcher](#patcher)
+    - [Scrollable Tooltips](#scrollable-tooltips)
+    - [Sk1er Old Animations](#sk1er-old-animations)
+    - [Autotip](#autotip)
+    - [ReplayMod](#replaymod)
 
 ## Minecraft Forge (Mod Loader)
 - Website: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
@@ -60,3 +64,15 @@ This is a list of official download links for common mods used by Skyblock playe
 
 ### Patcher
 - Website: https://sk1er.club/mods/patcher
+
+### Scrollable Tooltips
+- Website: https://sk1er.club/mods/text_overflow_scroll
+
+### Sk1er Old Animations
+- Website: https://sk1er.club/beta (join the beta and find the mod in there)
+
+### Autotip
+- Website: https://autotip.pro/download
+
+### ReplayMod
+- Website: https://www.replaymod.com/download/
