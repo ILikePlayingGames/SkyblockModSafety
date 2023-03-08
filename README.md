@@ -1,4 +1,7 @@
 # SkyblockModSafety
+
+> :warning: This information is now outdated. Please read [All about SkyBlock Account Stealing - Part II](https://hypixel.net/threads/all-about-skyblock-account-stealing-part-ii.5231557/) by @Angry-Pineapple3121 for the latest info.
+
 A collection of resources for Hypixel Skyblock players about how to use mods safely
 
 ### [How to Protect Yourself From Minecraft Token Loggers](how-to-protect-yourself-from-minecraft-token-loggers.md)
